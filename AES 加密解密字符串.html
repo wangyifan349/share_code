@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AES 加密解密工具</title>
+    <!-- 引入 Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- 引入 CryptoJS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <style>
+        body {
+            background-color: #ffe4e6; /* 粉红色背景 */
+        }
+        .container {
+            max-width: 800px;
+        }
+        .card {
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 1px solid #dc3545; /* 红色边框 */
+        }
+        .btn-primary {
+            background-color: #28a745; /* 绿色按钮 */
+            border-color: #28a745;
+        }
+        .btn-secondary {
+            background-color: #dc3545; /* 红色按钮 */
+            border-color: #dc3545;
+        }
+        .btn-success {
+            background-color: #ffc107; /* 黄色按钮 */
+            border-color: #ffc107;
+        }
+        .btn-primary:hover, .btn-secondary:hover, .btn-success:hover {
+            opacity: 0.8;
+        }
+        .alert-info {
+            background-color: #d4edda; /* 浅绿色背景 */
+            color: #155724; /* 深绿色文字 */
+        }
+        .btn-group {
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="card p-4">
+            <h1 class="text-center mb-4" style="color: #28a745;">AES 在线加密解密工具</h1>
+
+            <!-- AES 介绍信息 -->
+            <div class="alert alert-info" role="alert">
+                <strong>AES (高级加密标准)</strong> 是一种对称加密算法，常用于保护敏感数据。AES 使用相同的密钥进行加密和解密。请确保密钥的长度足够强（建议至少 16 个字符），并妥善保存密钥。
+            </div>
+
+            <!-- 输入区域 -->
+            <div class="mb-3">
+                <label for="inputText" class="form-label" style="color: #dc3545;">输入文本</label>
+                <textarea class="form-control" id="inputText" rows="3" placeholder="请输入要加密的文本"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="inputKey" class="form-label" style="color: #dc3545;">密钥</label>
+                <input type="password" class="form-control" id="inputKey" placeholder="请输入加密密钥 (建议至少 16 个字符)">
+            </div>
+
+            <div class="mb-3">
+                <label for="outputText" class="form-label" style="color: #dc3545;">加密/解密结果</label>
+                <!-- 移除 readonly 属性 -->
+                <textarea class="form-control" id="outputText" rows="3" placeholder="加密内容或解密结果"></textarea>
+            </div>
+
+            <!-- 按钮组 -->
+            <div class="d-flex justify-content-center btn-group">
+                <button class="btn btn-primary" id="encryptBtn">加密</button>
+                <button class="btn btn-secondary" id="decryptBtn">解密</button>
+                <button class="btn btn-success" id="copyBtn">复制</button>
+            </div>
+
+            <!-- 额外信息 -->
+            <div class="mt-4">
+                <h5 style="color: #28a745;">AES 加密的工作原理：</h5>
+                <ul>
+                    <li>加密算法：AES-256（高级加密标准，使用 256 位密钥）。</li>
+                    <li>填充方式：PKCS#7，用于确保数据块长度符合加密算法的要求。</li>
+                    <li>密钥长度：建议至少 16 个字符的密钥，以确保足够的安全性。</li>
+                </ul>
+                <p class="text-muted">注意：加密和解密的密钥必须相同，否则解密将失败。</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 加密函数
+        function encryptText(plainText, key) {
+            return CryptoJS.AES.encrypt(plainText, key, {
+                padding: CryptoJS.pad.Pkcs7
+            }).toString();
+        }
+
+        // 解密函数
+        function decryptText(cipherText, key) {
+            try {
+                var bytes = CryptoJS.AES.decrypt(cipherText, key, {
+                    padding: CryptoJS.pad.Pkcs7
+                });
+                return bytes.toString(CryptoJS.enc.Utf8);
+            } catch (e) {
+                return '解密失败，请检查密钥或加密内容';
+            }
+        }
+
+        // 复制到剪贴板
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(function() {
+                alert("加密结果已复制到剪贴板");
+            }, function(err) {
+                alert("复制失败，请重试");
+            });
+        }
+
+        // 加密按钮事件
+        document.getElementById('encryptBtn').addEventListener('click', function() {
+            var plainText = document.getElementById('inputText').value;
+            var key = document.getElementById('inputKey').value;
+
+            if (plainText && key) {
+                var encryptedText = encryptText(plainText, key);
+                document.getElementById('outputText').value = encryptedText;
+                copyToClipboard(encryptedText); // 自动复制加密结果
+            } else {
+                alert("请输入文本和密钥");
+            }
+        });
+
+        // 解密按钮事件
+        document.getElementById('decryptBtn').addEventListener('click', function() {
+            var cipherText = document.getElementById('outputText').value;
+            var key = document.getElementById('inputKey').value;
+
+            if (cipherText && key) {
+                var decryptedText = decryptText(cipherText, key);
+                document.getElementById('outputText').value = decryptedText;
+            } else {
+                alert("请输入加密内容和密钥");
+            }
+        });
+
+        // 复制按钮事件
+        document.getElementById('copyBtn').addEventListener('click', function() {
+            var textToCopy = document.getElementById('outputText').value;
+            if (textToCopy) {
+                copyToClipboard(textToCopy);
+            } else {
+                alert("没有内容可复制");
+            }
+        });
+    </script>
+</body>
+</html>
