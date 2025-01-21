@@ -28,3 +28,42 @@
 10. **Smallstep CLI**
     - 链接: [smallstep/cli](https://github.com/smallstep/cli)
     - 简介: 提供命令行工具和库，用于管理小步骤 CA 和 Let's Encrypt 证书，支持 ACME 协议。
+
+
+
+
+
+
+
+### OpenVPN
+1. **OpenVPN-Setup**
+   - 链接: [angristan/openvpn-install](https://github.com/angristan/openvpn-install)
+   - 简介: 一个简单的 bash 脚本，用于在 Linux 服务器上快速安装和配置 OpenVPN。
+2. **OpenVPN Docker**
+   - 链接: [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn)
+   - 简介: 使用 Docker 容器快速部署 OpenVPN 服务器的解决方案，支持持久化配置和简单的客户端管理。
+3. **PiVPN (OpenVPN)**
+   - 链接: [pivpn/pivpn](https://github.com/pivpn/pivpn)
+   - 简介: 旨在在树莓派上轻松安装和配置 OpenVPN 或 WireGuard 的脚本。
+### WireGuard
+4. **WireGuard-Setup**
+   - 链接: [angristan/wireguard-install](https://github.com/angristan/wireguard-install)
+   - 简介: 一个简单的 bash 脚本，用于在 Linux 服务器上快速安装和配置 WireGuard VPN。
+5. **WireGuard Docker**
+   - 链接: [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
+   - 简介: 通过 Docker 容器部署 WireGuard VPN 服务器，支持简单的配置和管理。
+6. **PiVPN (WireGuard)**
+   - 链接: [pivpn/pivpn](https://github.com/pivpn/pivpn)
+   - 简介: 旨在在树莓派上轻松安装和配置 OpenVPN 或 WireGuard 的脚本。
+7. **wg-easy**
+   - 链接: [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy)
+   - 简介: 提供一个简单的 Web 界面来管理 WireGuard 服务器和客户端配置，支持 Docker 部署。
+8. **wireguard-manager**
+   - 链接: [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
+   - 简介: 用于自动安装和配置 WireGuard 的脚本，支持多平台和高级配置选项。
+9. **Algo VPN**
+   - 链接: [trailofbits/algo](https://github.com/trailofbits/algo)
+   - 简介: 一键部署的自托管 VPN 解决方案，支持 WireGuard 和 IPsec，专注于简单性和安全性。
+10. **WireGuard Installer**
+    - 链接: [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs)
+    - 简介: 提供详细指南和脚本来安装和配置 WireGuard VPN，适用于多个平台。
