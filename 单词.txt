@@ -1,0 +1,840 @@
+1. **Democracy** /dɪˈmɑːkrəsi/ - 民主 (名词)
+2. **Government** /ˈɡʌvərnmənt/ - 政府 (名词)
+3. **Policy** /ˈpɑːləsi/ - 政策 (名词)
+4. **Election** /ɪˈlɛkʃən/ - 选举 (名词)
+5. **Candidate** /ˈkændɪˌdeɪt/ - 候选人 (名词)
+6. **Constitution** /ˌkɑːnstɪˈtuːʃən/ - 宪法 (名词)
+7. **Legislation** /ˌlɛdʒɪsˈleɪʃən/ - 立法 (名词)
+8. **Parliament** /ˈpɑːrləmənt/ - 议会 (名词)
+9. **Congress** /ˈkɑːŋɡrəs/ - 国会 (名词)
+10. **Diplomacy** /dɪˈploʊməsi/ - 外交 (名词)
+11. **Bureaucracy** /bjʊˈrɑːkrəsi/ - 官僚主义 (名词)
+12. **Referendum** /ˌrɛfəˈrɛndəm/ - 公投 (名词)
+13. **Sovereignty** /ˈsɑːvrənti/ - 主权 (名词)
+14. **Regime** /reɪˈʒiːm/ - 政权 (名词)
+15. **Campaign** /kæmˈpeɪn/ - 竞选活动 (名词)
+16. **Lobby** /ˈlɑːbi/ - 游说 (动词/名词)
+17. **Amendment** /əˈmɛndmənt/ - 修正案 (名词)
+18. **Bipartisan** /ˌbaɪˈpɑːrtɪzən/ - 两党制的 (形容词)
+19. **Impeachment** /ɪmˈpiːtʃmənt/ - 弹劾 (名词)
+20. **Federalism** /ˈfɛdərəˌlɪzəm/ - 联邦制 (名词)
+1. **Celebrity** /səˈlɛbrɪti/ - 名人 (名词)
+2. **Actor** /ˈæktər/ - 男演员 (名词)
+3. **Actress** /ˈæktrəs/ - 女演员 (名词)
+4. **Director** /dəˈrɛktər/ - 导演 (名词)
+5. **Producer** /prəˈduːsər/ - 制片人 (名词)
+6. **Screenplay** /ˈskriːnˌpleɪ/ - 剧本 (名词)
+7. **Blockbuster** /ˈblɑːkˌbʌstər/ - 大片 (名词)
+8. **Premiere** /prɪˈmɪr/ - 首映 (名词)
+9. **Award** /əˈwɔːrd/ - 奖项 (名词)
+10. **Nomination** /ˌnɑːməˈneɪʃən/ - 提名 (名词)
+11. **Genre** /ˈʒɑːnrə/ - 类型 (名词)
+12. **Soundtrack** /ˈsaʊndˌtræk/ - 电影原声 (名词)
+13. **Box office** /ˈbɑːks ˈɑːfɪs/ - 票房 (名词)
+14. **Film festival** /fɪlm ˈfɛstəvəl/ - 电影节 (名词)
+15. **Critic** /ˈkrɪtɪk/ - 评论家 (名词)
+16. **Review** /rɪˈvjuː/ - 评论 (名词)
+17. **Audience** /ˈɔːdiəns/ - 观众 (名词)
+18. **Stunt** /stʌnt/ - 特技 (名词)
+19. **Cinematography** /ˌsɪnəməˈtɑːɡrəfi/ - 电影摄影 (名词)
+20. **Sequel** /ˈsiːkwəl/ - 续集 (名词)
+21. **Trailer** /ˈtreɪlər/ - 预告片 (名词)
+22. **Casting** /ˈkæstɪŋ/ - 选角 (名词)
+23. **Talent** /ˈtælənt/ - 才艺 (名词)
+24. **Publicity** /pʌˈblɪsəti/ - 宣传 (名词)
+25. **Fan** /fæn/ - 粉丝 (名词)
+26. **Gossip** /ˈɡɑːsɪp/ - 八卦 (名词)
+27. **Scandal** /ˈskændəl/ - 丑闻 (名词)
+28. **Red carpet** /rɛd ˈkɑːrpɪt/ - 红毯 (名词)
+29. **Performance** /pərˈfɔːrməns/ - 表演 (名词)
+30. **Casting director** /ˈkæstɪŋ dəˈrɛktər/ - 选角导演 (名词)
+
+
+
+1. **Medicine** /ˈmɛdɪsɪn/ - 药物，医学 (名词)
+2. **Doctor** /ˈdɑːktər/ - 医生 (名词)
+3. **Nurse** /nɜːrs/ - 护士 (名词)
+4. **Patient** /ˈpeɪʃənt/ - 病人 (名词)
+5. **Hospital** /ˈhɑːspɪtl/ - 医院 (名词)
+6. **Clinic** /ˈklɪnɪk/ - 诊所 (名词)
+7. **Diagnosis** /ˌdaɪəɡˈnoʊsɪs/ - 诊断 (名词)
+8. **Treatment** /ˈtriːtmənt/ - 治疗 (名词)
+9. **Surgery** /ˈsɜːrdʒəri/ - 手术 (名词)
+10. **Prescription** /prɪˈskrɪpʃən/ - 处方 (名词)
+11. **Therapy** /ˈθɛrəpi/ - 治疗，疗法 (名词)
+12. **Vaccine** /ˈvæksiːn/ - 疫苗 (名词)
+13. **Symptom** /ˈsɪmptəm/ - 症状 (名词)
+14. **Prevention** /prɪˈvɛnʃən/ - 预防 (名词)
+15. **Recovery** /rɪˈkʌvəri/ - 康复 (名词)
+16. **Emergency** /ɪˈmɜːrdʒənsi/ - 紧急情况 (名词)
+17. **Infection** /ɪnˈfɛkʃən/ - 感染 (名词)
+18. **Antibiotic** /ˌæntibaɪˈɑːtɪk/ - 抗生素 (名词)
+19. **Immune system** /ɪˈmjuːn ˈsɪstəm/ - 免疫系统 (名词)
+20. **Allergy** /ˈælɚdʒi/ - 过敏 (名词)
+21. **Chronic** /ˈkrɑːnɪk/ - 慢性的 (形容词)
+22. **Acute** /əˈkjuːt/ - 急性的 (形容词)
+23. **Mental health** /ˈmɛntəl hɛlθ/ - 心理健康 (名词)
+24. **Physical examination** /ˈfɪzɪkəl ɪɡˌzæmɪˈneɪʃən/ - 体检 (名词)
+25. **Radiology** /ˌreɪdiˈɑːlədʒi/ - 放射学 (名词)
+26. **Cardiology** /ˌkɑːrdiˈɑːlədʒi/ - 心脏病学 (名词)
+27. **Oncology** /ɑːnˈkɑːlədʒi/ - 肿瘤学 (名词)
+28. **Pediatrics** /ˌpiːdiˈætrɪks/ - 儿科 (名词)
+29. **Dermatology** /ˌdɜːrməˈtɑːlədʒi/ - 皮肤科 (名词)
+30. **Neurology** /nʊˈrɑːlədʒi/ - 神经学 (名词)
+
+### 旅游相关
+1. **Commence** /kəˈmɛns/ - 开始 (动词)
+2. **Embark** /ɪmˈbɑrk/ - 上船/飞机，开始 (动词)
+3. **Navigate** /ˈnævɪˌɡeɪt/ - 导航 (动词)
+4. **Immerse** /ɪˈmɜrs/ - 沉浸 (动词)
+5. **Venture** /ˈvɛntʃər/ - 冒险 (动词)
+6. **Indulge** /ɪnˈdʌldʒ/ - 放纵，沉迷 (动词)
+7. **Accommodate** /əˈkɑməˌdeɪt/ - 容纳 (动词)
+8. **Rejuvenate** /rɪˈdʒuːvəˌneɪt/ - 使恢复活力 (动词)
+9. **Facilitate** /fəˈsɪləˌteɪt/ - 促进 (动词)
+10. **Authenticate** /ɔˈθɛntɪˌkeɪt/ - 鉴定 (动词)
+
+### 工作相关
+1. **Collaborate** /kəˈlæbəˌreɪt/ - 合作 (动词)
+2. **Innovate** /ˈɪnəˌveɪt/ - 创新 (动词)
+3. **Delegate** /ˈdɛləˌɡeɪt/ - 委派 (动词)
+4. **Spearhead** /ˈspɪrˌhɛd/ - 领导 (动词)
+5. **Streamline** /ˈstrimˌlaɪn/ - 简化 (动词)
+6. **Facilitate** /fəˈsɪləˌteɪt/ - 促进 (动词)
+7. **Negotiate** /nɪˈɡoʊʃiˌeɪt/ - 谈判 (动词)
+8. **Strategize** /ˈstrætəˌdʒaɪz/ - 制定战略 (动词)
+9. **Optimize** /ˈɑptəˌmaɪz/ - 优化 (动词)
+10. **Diversify** /daɪˈvɜrsəˌfaɪ/ - 多样化 (动词)
+
+### 金融相关
+1. **Allocate** /ˈæləˌkeɪt/ - 分配 (动词)
+2. **Appreciate** /əˈpriʃiˌeɪt/ - 升值 (动词)
+3. **Depreciate** /dɪˈpriʃiˌeɪt/ - 贬值 (动词)
+4. **Amortize** /ˈæmərˌtaɪz/ - 摊销 (动词)
+5. **Leverage** /ˈlɛvərɪdʒ/ - 利用杠杆 (动词)
+6. **Underwrite** /ˈʌndərˌraɪt/ - 承保 (动词)
+7. **Diversify** /daɪˈvɜrsəˌfaɪ/ - 多样化 (动词)
+8. **Speculate** /ˈspɛkjəˌleɪt/ - 投机 (动词)
+9. **Consolidate** /kənˈsɑlɪˌdeɪt/ - 巩固 (动词)
+10. **Liquidate** /ˈlɪkwɪˌdeɪt/ - 清算 (动词)
+
+### 其他相关
+1. **Articulate** /ɑrˈtɪkjəlɪt/ - 清晰表达 (动词)
+2. **Cultivate** /ˈkʌltəˌveɪt/ - 培养 (动词)
+3. **Synthesize** /ˈsɪnθəˌsaɪz/ - 合成 (动词)
+4. **Evaluate** /ɪˈvæljəˌweɪt/ - 评估 (动词)
+5. **Implement** /ˈɪmpləˌmɛnt/ - 实施 (动词)
+6. **Mitigate** /ˈmɪtəˌɡeɪt/ - 缓解 (动词)
+7. **Perceive** /pərˈsiv/ - 感知 (动词)
+8. **Substantiate** /səbˈstænʃiˌeɪt/ - 证实 (动词)
+9. **Transform** /trænsˈfɔrm/ - 转变 (动词)
+10. **Validate** /ˈvælɪˌdeɪt/ - 验证 (动词)
+
+
+### 旅游相关
+1. **Traverse** /trəˈvɜrs/ - 横越 (动词)
+2. **Expedite** /ˈɛkspəˌdaɪt/ - 加速 (动词)
+3. **Exhibit** /ɪɡˈzɪbɪt/ - 展示 (动词)
+4. **Peruse** /pəˈruz/ - 细读 (动词)
+5. **Revel** /ˈrɛvəl/ - 狂欢 (动词)
+6. **Saunter** /ˈsɔntər/ - 闲逛 (动词)
+7. **Ascend** /əˈsɛnd/ - 上升 (动词)
+8. **Descend** /dɪˈsɛnd/ - 下降 (动词)
+9. **Wander** /ˈwɑndər/ - 漫步 (动词)
+10. **Ponder** /ˈpɑndər/ - 沉思 (动词)
+
+### 工作相关
+1. **Facilitate** /fəˈsɪləˌteɪt/ - 促进 (动词)
+2. **Expedite** /ˈɛkspəˌdaɪt/ - 加速 (动词)
+3. **Supervise** /ˈsupərˌvaɪz/ - 监督 (动词)
+4. **Coordinate** /koʊˈɔrdəˌneɪt/ - 协调 (动词)
+5. **Implement** /ˈɪmpləˌmɛnt/ - 实施 (动词)
+6. **Facilitate** /fəˈsɪləˌteɪt/ - 促进 (动词)
+7. **Evaluate** /ɪˈvæljəˌweɪt/ - 评估 (动词)
+8. **Incorporate** /ɪnˈkɔrpəˌreɪt/ - 合并 (动词)
+9. **Streamline** /ˈstrimˌlaɪn/ - 简化 (动词)
+10. **Administer** /ədˈmɪnəstər/ - 管理 (动词)
+
+### 金融相关
+1. **Accumulate** /əˈkjumjəˌleɪt/ - 积累 (动词)
+2. **Diversify** /daɪˈvɜrsəˌfaɪ/ - 多样化 (动词)
+3. **Hedge** /hɛdʒ/ - 对冲 (动词)
+4. **Capitalize** /ˈkæpɪtəˌlaɪz/ - 资本化 (动词)
+5. **Monetize** /ˈmɑnɪˌtaɪz/ - 货币化 (动词)
+6. **Underwrite** /ˈʌndərˌraɪt/ - 承保 (动词)
+7. **Depreciate** /dɪˈpriʃiˌeɪt/ - 贬值 (动词)
+8. **Appreciate** /əˈpriʃiˌeɪt/ - 升值 (动词)
+9. **Amortize** /ˈæmərˌtaɪz/ - 摊销 (动词)
+10. **Leverage** /ˈlɛvərɪdʒ/ - 利用杠杆 (动词)
+
+### 其他相关
+1. **Exacerbate** /ɪɡˈzæsərˌbeɪt/ - 加剧 (动词)
+2. **Alleviate** /əˈliviˌeɪt/ - 减轻 (动词)
+3. **Corroborate** /kəˈrɑbəˌreɪt/ - 证实 (动词)
+4. **Elucidate** /ɪˈlusəˌdeɪt/ - 阐明 (动词)
+5. **Substantiate** /səbˈstænʃiˌeɪt/ - 证实 (动词)
+6. **Exemplify** /ɪɡˈzɛmpləˌfaɪ/ - 举例说明 (动词)
+7. **Perceive** /pərˈsiv/ - 感知 (动词)
+8. **Articulate** /ɑrˈtɪkjəlɪt/ - 清晰表达 (动词)
+9. **Mitigate** /ˈmɪtəˌɡeɪt/ - 缓解 (动词)
+10. **Facilitate** /fəˈsɪləˌteɪt/ - 促进 (动词)
+
+
+### 竞技和体育相关动词
+1. **Compete** /kəmˈpit/ - 竞争 (动词)
+2. **Participate** /pɑrˈtɪsəˌpeɪt/ - 参与 (动词)
+3. **Endure** /ɪnˈdʊr/ - 忍受 (动词)
+4. **Excel** /ɪkˈsɛl/ - 擅长 (动词)
+5. **Outperform** /ˌaʊtpərˈfɔrm/ - 超越 (动词)
+6. **Strategize** /ˈstrætəˌdʒaɪz/ - 制定战略 (动词)
+7. **Train** /treɪn/ - 训练 (动词)
+8. **Qualify** /ˈkwɑləˌfaɪ/ - 取得资格 (动词)
+9. **Defeat** /dɪˈfit/ - 击败 (动词)
+10. **Spectate** /ˈspɛkˌteɪt/ - 观看 (动词)
+
+### 竞技和体育相关名词
+1. **Athlete** /ˈæθˌlit/ - 运动员 (名词)
+2. **Tournament** /ˈtʊrnəmənt/ - 锦标赛 (名词)
+3. **Marathon** /ˈmærəˌθɑn/ - 马拉松 (名词)
+4. **Endurance** /ɪnˈdʊrəns/ - 耐力 (名词)
+5. **Championship** /ˈtʃæmpiənˌʃɪp/ - 冠军赛 (名词)
+6. **Spectator** /ˈspɛkteɪtər/ - 观众 (名词)
+7. **Referee** /ˌrɛfəˈri/ - 裁判 (名词)
+8. **Coach** /koʊtʃ/ - 教练 (名词)
+9. **Medal** /ˈmɛdəl/ - 奖牌 (名词)
+10. **Victory** /ˈvɪktəri/ - 胜利 (名词)
+
+### 竞技和体育相关形容词
+1. **Competitive** /kəmˈpɛtɪtɪv/ - 竞争的 (形容词)
+2. **Athletic** /æθˈlɛtɪk/ - 运动的 (形容词)
+3. **Enduring** /ɪnˈdʊrɪŋ/ - 持久的 (形容词)
+4. **Strategic** /strəˈtidʒɪk/ - 战略性的 (形容词)
+5. **Victorious** /vɪkˈtɔriəs/ - 胜利的 (形容词)
+6. **Rigorous** /ˈrɪɡərəs/ - 严格的 (形容词)
+7. **Agile** /ˈædʒəl/ - 敏捷的 (形容词)
+8. **Resilient** /rɪˈzɪljənt/ - 有韧性的 (形容词)
+9. **Intense** /ɪnˈtɛns/ - 强烈的 (形容词)
+10. **Dynamic** /daɪˈnæmɪk/ - 动态的 (形容词)
+
+### 娱乐圈相关动词
+1. **Perform** /pərˈfɔrm/ - 表演 (动词)
+2. **Entertain** /ˌɛntərˈteɪn/ - 娱乐 (动词)
+3. **Premiere** /prɪˈmɪr/ - 首映 (动词)
+4. **Rehearse** /rɪˈhɜrs/ - 排练 (动词)
+5. **Cast** /kæst/ - 选角 (动词)
+6. **Direct** /dəˈrɛkt/ - 导演 (动词)
+7. **Produce** /prəˈdus/ - 制作 (动词)
+8. **Screen** /skrin/ - 放映 (动词)
+9. **Audition** /ɔˈdɪʃən/ - 试镜 (动词)
+10. **Critique** /krɪˈtik/ - 评论 (动词)
+11. **Choreograph** /ˈkɔriəˌɡræf/ - 编舞 (动词)
+12. **Promote** /prəˈmoʊt/ - 推广 (动词)
+13. **Debut** /deɪˈbju/ - 初次登台 (动词)
+14. **Perform** /pərˈfɔrm/ - 表演 (动词)
+15. **Host** /hoʊst/ - 主持 (动词)
+
+### 娱乐圈相关名词
+1. **Celebrity** /səˈlɛbrɪti/ - 名人 (名词)
+2. **Actor** /ˈæktər/ - 男演员 (名词)
+3. **Actress** /ˈæktrɪs/ - 女演员 (名词)
+4. **Director** /dəˈrɛktər/ - 导演 (名词)
+5. **Producer** /prəˈdusər/ - 制片人 (名词)
+6. **Audience** /ˈɔdiəns/ - 观众 (名词)
+7. **Fanbase** /ˈfænˌbeɪs/ - 粉丝群 (名词)
+8. **Script** /skrɪpt/ - 剧本 (名词)
+9. **Genre** /ˈʒɑnrə/ - 类型 (名词)
+10. **Publicity** /pəˈblɪsəti/ - 宣传 (名词)
+11. **Premiere** /prɪˈmɪr/ - 首映 (名词)
+12. **Choreographer** /ˌkɔriˈɑɡrəfər/ - 编舞者 (名词)
+13. **Stardom** /ˈstɑrdəm/ - 明星地位 (名词)
+14. **Critic** /ˈkrɪtɪk/ - 评论家 (名词)
+15. **Showbiz** /ˈʃoʊˌbɪz/ - 娱乐圈 (名词)
+
+### 娱乐圈相关形容词
+1. **Famous** /ˈfeɪməs/ - 著名的 (形容词)
+2. **Notable** /ˈnoʊtəbəl/ - 显著的 (形容词)
+3. **Talented** /ˈtæləntɪd/ - 有才华的 (形容词)
+4. **Popular** /ˈpɑpjələr/ - 受欢迎的 (形容词)
+5. **Glamorous** /ˈɡlæmərəs/ - 迷人的 (形容词)
+6. **Charismatic** /ˌkærɪzˈmætɪk/ - 有魅力的 (形容词)
+7. **Versatile** /ˈvɜrsətl/ - 多才多艺的 (形容词)
+8. **Iconic** /aɪˈkɑnɪk/ - 标志性的 (形容词)
+9. **Controversial** /ˌkɑntrəˈvɜrʃəl/ - 有争议的 (形容词)
+10. **Influential** /ˌɪnfluˈɛnʃəl/ - 有影响力的 (形容词)
+11. **Renowned** /rɪˈnaʊnd/ - 著名的 (形容词)
+12. **Award-winning** /əˈwɔrd ˈwɪnɪŋ/ - 获奖的 (形容词)
+13. **Critically-acclaimed** /ˈkrɪtɪkli əˈkleɪmd/ - 受到好评的 (形容词)
+14. **Blockbuster** /ˈblɑkˌbʌstər/ - 卖座的 (形容词)
+15. **Breakthrough** /ˈbreɪkˌθru/ - 突破性的 (形容词)
+### 保健和养生相关动词
+1. **Alleviate** /əˈliviˌeɪt/ - 减轻 (动词)
+2. **Fortify** /ˈfɔrtɪˌfaɪ/ - 增强 (动词)
+3. **Invigorate** /ɪnˈvɪɡəˌreɪt/ - 使充满活力 (动词)
+4. **Rehabilitate** /ˌriəˈbɪləˌteɪt/ - 康复 (动词)
+5. **Replenish** /rɪˈplɛnɪʃ/ - 补充 (动词)
+6. **Revitalize** /ˌriˈvaɪtəˌlaɪz/ - 使复苏 (动词)
+7. **Soothe** /suð/ - 缓解 (动词)
+8. **Optimize** /ˈɑptəˌmaɪz/ - 优化 (动词)
+9. **Energize** /ˈɛnərˌdʒaɪz/ - 使充满活力 (动词)
+10. **Regenerate** /rɪˈdʒɛnəˌreɪt/ - 再生 (动词)
+11. **Enhance** /ɪnˈhæns/ - 提高 (动词)
+12. **Detoxify** /diˈtɑksəˌfaɪ/ - 排毒 (动词)
+13. **Rejuvenate** /rɪˈdʒuvəˌneɪt/ - 使恢复活力 (动词)
+14. **Pacify** /ˈpæsəˌfaɪ/ - 安抚 (动词)
+15. **Revivify** /rɪˈvɪvəˌfaɪ/ - 使复活 (动词)
+
+### 保健和养生相关名词
+1. **Homeostasis** /ˌhoʊmiəˈsteɪsɪs/ - 体内平衡 (名词)
+2. **Antioxidant** /ˌæntiˈɑksɪdənt/ - 抗氧化剂 (名词)
+3. **Probiotic** /ˌproʊbaɪˈɑtɪk/ - 益生菌 (名词)
+4. **Phytochemical** /ˌfaɪtoʊˈkɛmɪkəl/ - 植物化学物 (名词)
+5. **Naturopathy** /ˌneɪtʃəˈrɑpəθi/ - 自然疗法 (名词)
+6. **Holism** /ˈhoʊlɪzəm/ - 整体论 (名词)
+7. **Acupuncture** /ˈækjəˌpʌŋktʃər/ - 针灸 (名词)
+8. **Ayurveda** /ˌaɪərˈveɪdə/ - 阿育吠陀 (名词)
+9. **Homeopathy** /ˌhoʊmiˈɑpəθi/ - 顺势疗法 (名词)
+10. **Chiropractic** /ˌkaɪrəˈpræktɪk/ - 脊椎按摩疗法 (名词)
+11. **Mindfulness** /ˈmaɪndfʊlnəs/ - 正念 (名词)
+12. **Endorphin** /ɛnˈdɔrfɪn/ - 内啡肽 (名词)
+13. **Serotonin** /ˌsɛrəˈtoʊnɪn/ - 血清素 (名词)
+14. **Cortisol** /ˈkɔrtɪˌzoʊl/ - 皮质醇 (名词)
+15. **Metabolism** /məˈtæbəˌlɪzəm/ - 新陈代谢 (名词)
+
+### 保健和养生相关形容词
+1. **Holistic** /hoʊˈlɪstɪk/ - 全面的 (形容词)
+2. **Therapeutic** /ˌθɛrəˈpjutɪk/ - 治疗的 (形容词)
+3. **Rejuvenating** /rɪˈdʒuvəˌneɪtɪŋ/ - 使恢复活力的 (形容词)
+4. **Invigorating** /ɪnˈvɪɡəˌreɪtɪŋ/ - 使充满活力的 (形容词)
+5. **Nourishing** /ˈnɜrɪʃɪŋ/ - 滋养的 (形容词)
+6. **Detoxifying** /diˈtɑksəˌfaɪɪŋ/ - 排毒的 (形容词)
+7. **Restorative** /rəˈstɔrətɪv/ - 恢复的 (形容词)
+8. **Balancing** /ˈbælənsɪŋ/ - 平衡的 (形容词)
+9. **Revitalizing** /ˌriˈvaɪtəˌlaɪzɪŋ/ - 使复苏的 (形容词)
+10. **Calming** /ˈkɑmɪŋ/ - 镇静的 (形容词)
+11. **Energizing** /ˈɛnərˌdʒaɪzɪŋ/ - 充满活力的 (形容词)
+12. **Purifying** /ˈpjʊrəˌfaɪɪŋ/ - 净化的 (形容词)
+13. **Regenerative** /rɪˈdʒɛnərətɪv/ - 再生的 (形容词)
+14. **Anti-inflammatory** /ˌænti-ɪnˈflæmətɔri/ - 抗炎的 (形容词)
+15. **Immune-boosting** /ɪˈmjun ˈbustɪŋ/ - 增强免疫力的 (形容词)
+
+### 动物相关词汇
+
+#### 名词
+1. **Mammal** /ˈmæməl/ - 哺乳动物
+2. **Reptile** /ˈrɛptaɪl/ - 爬行动物
+3. **Amphibian** /æmˈfɪbiən/ - 两栖动物
+4. **Invertebrate** /ɪnˈvɜrtɪˌbrɪt/ - 无脊椎动物
+5. **Carnivore** /ˈkɑrnɪˌvɔr/ - 食肉动物
+6. **Herbivore** /ˈhɜrbɪˌvɔr/ - 食草动物
+7. **Omnivore** /ˈɑmnɪˌvɔr/ - 杂食动物
+8. **Predator** /ˈprɛdətər/ - 捕食者
+9. **Prey** /preɪ/ - 猎物
+10. **Endangered species** /ɪnˈdeɪndʒərd ˈspiʃiz/ - 濒危物种
+
+#### 动词
+1. **Hibernate** /ˈhaɪbərˌneɪt/ - 冬眠
+2. **Migrate** /ˈmaɪˌɡreɪt/ - 迁徙
+3. **Forage** /ˈfɔrɪdʒ/ - 搜寻食物
+4. **Graze** /ɡreɪz/ - 吃草
+5. **Hunt** /hʌnt/ - 狩猎
+6. **Scavenge** /ˈskævɪndʒ/ - 食腐
+7. **Mate** /meɪt/ - 交配
+8. **Flock** /flɑk/ - 聚集（指鸟类）
+9. **Swarm** /swɔrm/ - 蜂拥（指昆虫）
+10. **Burrow** /ˈbɜroʊ/ - 挖掘
+
+### 植物相关词汇
+
+#### 名词
+1. **Photosynthesis** /ˌfoʊtoʊˈsɪnθəsɪs/ - 光合作用
+2. **Chlorophyll** /ˈklɔrəˌfɪl/ - 叶绿素
+3. **Angiosperm** /ˈændʒiəˌspɜrm/ - 被子植物
+4. **Gymnosperm** /ˈdʒɪmnəˌspɜrm/ - 裸子植物
+5. **Deciduous tree** /dɪˈsɪdʒuəs tri/ - 落叶树
+6. **Evergreen** /ˈɛvərˌɡrin/ - 常绿植物
+7. **Herbaceous plant** /hərˈbeɪʃəs plænt/ - 草本植物
+8. **Perennial** /pəˈrɛnɪəl/ - 多年生植物
+9. **Seedling** /ˈsidlɪŋ/ - 幼苗
+10. **Germination** /ˌdʒɜrmɪˈneɪʃən/ - 发芽
+
+#### 动词
+1. **Germinate** /ˈdʒɜrmɪˌneɪt/ - 发芽
+2. **Photosynthesize** /ˌfoʊtoʊˈsɪnθəˌsaɪz/ - 进行光合作用
+3. **Pollinate** /ˈpɑləˌneɪt/ - 授粉
+4. **Propagate** /ˈprɑpəˌɡeɪt/ - 繁殖
+5. **Blossom** /ˈblɑsəm/ - 开花
+6. **Wilt** /wɪlt/ - 枯萎
+7. **Sprout** /spraʊt/ - 发芽
+8. **Prune** /prun/ - 修剪
+9. **Harvest** /ˈhɑrvɪst/ - 收获
+10. **Shed** /ʃɛd/ - 脱落（叶子）
+
+### 微生物相关词汇
+
+#### 名词
+1. **Bacterium** /bækˈtɪriəm/ - 细菌
+2. **Virus** /ˈvaɪrəs/ - 病毒
+3. **Fungus** /ˈfʌŋɡəs/ - 真菌
+4. **Protozoan** /ˌproʊtəˈzoʊən/ - 原生动物
+5. **Microbe** /ˈmaɪkroʊb/ - 微生物
+6. **Pathogen** /ˈpæθədʒən/ - 病原体
+7. **Antibiotic** /ˌæntɪbaɪˈɑtɪk/ - 抗生素
+8. **Probiotic** /ˌproʊbaɪˈɑtɪk/ - 益生菌
+9. **Eukaryote** /juˈkæriˌoʊt/ - 真核生物
+10. **Archaea** /ɑrˈkiə/ - 古细菌
+
+#### 动词
+1. **Infect** /ɪnˈfɛkt/ - 感染
+2. **Replicate** /ˈrɛplɪˌkeɪt/ - 复制
+3. **Mutate** /mjuˈteɪt/ - 突变
+4. **Decompose** /ˌdikəmˈpoʊz/ - 分解
+5. **Ferment** /ˈfɜrmɛnt/ - 发酵
+6. **Colonize** /ˈkɑləˌnaɪz/ - 殖民（微生物在某处生长）
+7. **Metabolize** /məˈtæbəˌlaɪz/ - 代谢
+8. **Proliferate** /prəˈlɪfəˌreɪt/ - 增殖
+9. **Inhibit** /ɪnˈhɪbɪt/ - 抑制
+10. **Symbiose** /ˈsɪmbaɪˌoʊs/ - 共生
+
+### 动物相关词汇
+
+#### 名词
+1. **Mammal** - 哺乳动物
+2. **Reptile** - 爬行动物
+3. **Bird** - 鸟
+4. **Fish** - 鱼
+5. **Amphibian** - 两栖动物
+6. **Insect** - 昆虫
+7. **Predator** - 捕食者
+8. **Prey** - 猎物
+9. **Herbivore** - 食草动物
+10. **Carnivore** - 食肉动物
+
+#### 动词
+1. **Hibernate** - 冬眠
+2. **Migrate** - 迁徙
+3. **Forage** - 搜寻食物
+4. **Graze** - 吃草
+5. **Hunt** - 狩猎
+6. **Swim** - 游泳
+7. **Fly** - 飞行
+8. **Climb** - 爬
+9. **Burrow** - 挖洞
+10. **Mate** - 交配
+
+### 植物相关词汇
+
+#### 名词
+1. **Tree** - 树
+2. **Shrub** - 灌木
+3. **Flower** - 花
+4. **Grass** - 草
+5. **Leaf** - 叶子
+6. **Root** - 根
+7. **Seed** - 种子
+8. **Fruit** - 果实
+9. **Stem** - 茎
+10. **Bud** - 芽
+
+#### 动词
+1. **Grow** - 生长
+2. **Bloom** - 开花
+3. **Wilt** - 枯萎
+4. **Sprout** - 发芽
+5. **Pollinate** - 授粉
+6. **Harvest** - 收获
+7. **Plant** - 种植
+8. **Prune** - 修剪
+9. **Shed** - 脱落
+10. **Germinate** - 发芽
+
+### 微生物相关词汇
+
+#### 名词
+1. **Bacterium** - 细菌
+2. **Virus** - 病毒
+3. **Fungus** - 真菌
+4. **Protozoa** - 原生动物
+5. **Microbe** - 微生物
+6. **Germ** - 病菌
+7. **Pathogen** - 病原体
+8. **Yeast** - 酵母
+9. **Mold** - 霉菌
+10. **Algae** - 藻类
+
+#### 动词
+1. **Infect** - 感染
+2. **Replicate** - 复制
+3. **Mutate** - 突变
+4. **Decompose** - 分解
+5. **Ferment** - 发酵
+6. **Colonize** - 殖民
+7. **Metabolize** - 代谢
+8. **Proliferate** - 增殖
+9. **Inhibit** - 抑制
+10. **Symbiose** - 共生
+
+### 动物相关词汇
+
+#### 名词
+1. **Mammal** /ˈmæməl/ - 哺乳动物
+2. **Reptile** /ˈrɛptaɪl/ - 爬行动物
+3. **Bird** /bɜrd/ - 鸟
+4. **Fish** /fɪʃ/ - 鱼
+5. **Amphibian** /æmˈfɪbiən/ - 两栖动物
+6. **Insect** /ˈɪnˌsɛkt/ - 昆虫
+7. **Predator** /ˈprɛdətər/ - 捕食者
+8. **Prey** /preɪ/ - 猎物
+9. **Herbivore** /ˈhɜrbɪˌvɔr/ - 食草动物
+10. **Carnivore** /ˈkɑrnɪˌvɔr/ - 食肉动物
+
+#### 动词
+1. **Hibernate** /ˈhaɪbərˌneɪt/ - 冬眠
+2. **Migrate** /ˈmaɪˌɡreɪt/ - 迁徙
+3. **Forage** /ˈfɔrɪdʒ/ - 搜寻食物
+4. **Graze** /ɡreɪz/ - 吃草
+5. **Hunt** /hʌnt/ - 狩猎
+6. **Swim** /swɪm/ - 游泳
+7. **Fly** /flaɪ/ - 飞行
+8. **Climb** /klaɪm/ - 爬
+9. **Burrow** /ˈbɜroʊ/ - 挖洞
+10. **Mate** /meɪt/ - 交配
+
+### 植物相关词汇
+
+#### 名词
+1. **Tree** /tri/ - 树
+2. **Shrub** /ʃrʌb/ - 灌木
+3. **Flower** /ˈflaʊər/ - 花
+4. **Grass** /ɡræs/ - 草
+5. **Leaf** /lif/ - 叶子
+6. **Root** /rut/ - 根
+7. **Seed** /sid/ - 种子
+8. **Fruit** /frut/ - 果实
+9. **Stem** /stɛm/ - 茎
+10. **Bud** /bʌd/ - 芽
+
+#### 动词
+1. **Grow** /ɡroʊ/ - 生长
+2. **Bloom** /blum/ - 开花
+3. **Wilt** /wɪlt/ - 枯萎
+4. **Sprout** /spraʊt/ - 发芽
+5. **Pollinate** /ˈpɑləˌneɪt/ - 授粉
+6. **Harvest** /ˈhɑrvɪst/ - 收获
+7. **Plant** /plænt/ - 种植
+8. **Prune** /prun/ - 修剪
+9. **Shed** /ʃɛd/ - 脱落
+10. **Germinate** /ˈdʒɜrmɪˌneɪt/ - 发芽
+
+### 微生物相关词汇
+
+#### 名词
+1. **Bacterium** /bækˈtɪriəm/ - 细菌
+2. **Virus** /ˈvaɪrəs/ - 病毒
+3. **Fungus** /ˈfʌŋɡəs/ - 真菌
+4. **Protozoa** /ˌproʊtəˈzoʊə/ - 原生动物
+5. **Microbe** /ˈmaɪkroʊb/ - 微生物
+6. **Germ** /dʒɜrm/ - 病菌
+7. **Pathogen** /ˈpæθədʒən/ - 病原体
+8. **Yeast** /jist/ - 酵母
+9. **Mold** /moʊld/ - 霉菌
+10. **Algae** /ˈældʒi/ - 藻类
+
+#### 动词
+1. **Infect** /ɪnˈfɛkt/ - 感染
+2. **Replicate** /ˈrɛplɪˌkeɪt/ - 复制
+3. **Mutate** /ˈmjuteɪt/ - 突变
+4. **Decompose** /ˌdikəmˈpoʊz/ - 分解
+5. **Ferment** /fərˈmɛnt/ - 发酵
+6. **Colonize** /ˈkɑləˌnaɪz/ - 殖民
+7. **Metabolize** /məˈtæbəˌlaɪz/ - 代谢
+8. **Proliferate** /prəˈlɪfəˌreɪt/ - 增殖
+9. **Inhibit** /ɪnˈhɪbɪt/ - 抑制
+10. **Symbiose** /ˈsɪmbaɪˌoʊs/ - 共生
+
+### 个人陈述
+
+1. **I believe that...**
+   - 英文: I believe that education is the key to success.
+   - 中文: 我相信教育是成功的关键。
+
+2. **In my opinion...**
+   - 英文: In my opinion, environmental protection should be our top priority.
+   - 中文: 在我看来，环境保护应该是我们的首要任务。
+
+3. **From my perspective...**
+   - 英文: From my perspective, learning a second language is very beneficial.
+   - 中文: 从我的角度来看，学习第二语言是非常有益的。
+
+### 表达原因
+
+4. **The reason why... is because...**
+   - 英文: The reason why I chose this university is because of its excellent reputation.
+   - 中文: 我选择这所大学的原因是它有着卓越的声誉。
+
+5. **This is due to...**
+   - 英文: This is due to the increasing demand for skilled workers.
+   - 中文: 这是因为对技术工人的需求不断增加。
+
+6. **Owing to...**
+   - 英文: Owing to the rapid advancement in technology, our lives have become more convenient.
+   - 中文: 由于科技的快速进步，我们的生活变得更加方便。
+
+### 比较与对比
+
+7. **Compared to...**
+   - 英文: Compared to traditional methods, online learning is more flexible.
+   - 中文: 与传统方法相比，在线学习更加灵活。
+
+8. **In contrast to...**
+   - 英文: In contrast to urban areas, rural areas often lack basic amenities.
+   - 中文: 与城市地区相比，农村地区通常缺乏基本设施。
+
+9. **While...**
+   - 英文: While some people prefer to work from home, others find it difficult to concentrate.
+   - 中文: 虽然有些人喜欢在家工作，但其他人觉得难以集中注意力。
+
+### 举例说明
+
+10. **For example...**
+    - 英文: For example, many companies now offer flexible working hours.
+    - 中文: 例如，许多公司现在提供灵活的工作时间。
+
+11. **Such as...**
+    - 英文: There are many forms of entertainment, such as movies, music, and sports.
+    - 中文: 有许多娱乐形式，如电影、音乐和体育。
+
+12. **For instance...**
+    - 英文: For instance, regular exercise can improve your health significantly.
+    - 中文: 例如，定期锻炼可以显著改善你的健康。
+
+### 结论
+
+13. **In conclusion...**
+    - 英文: In conclusion, both methods have their advantages and disadvantages.
+    - 中文: 总之，两种方法都有其优点和缺点。
+
+14. **To sum up...**
+    - 英文: To sum up, it is essential to balance work and leisure.
+    - 中文: 总结来说，平衡工作和休闲是至关重要的。
+
+15. **Therefore...**
+    - 英文: Therefore, it is important to invest in renewable energy sources.
+    - 中文: 因此，投资可再生能源是重要的。
+
+### 表达观点
+
+16. **I strongly agree that...**
+    - 英文: I strongly agree that education should be accessible to everyone.
+    - 中文: 我强烈同意教育应该人人可及。
+
+17. **I disagree with...**
+    - 英文: I disagree with the notion that money can buy happiness.
+    - 中文: 我不同意金钱可以买到幸福的观点。
+
+18. **It seems to me that...**
+    - 英文: It seems to me that climate change is the most pressing issue of our time.
+    - 中文: 在我看来，气候变化是我们这个时代最紧迫的问题。
+
+### 提出建议
+
+19. **I suggest that...**
+    - 英文: I suggest that we should take immediate action to reduce pollution.
+    - 中文: 我建议我们应该立即采取行动减少污染。
+
+20. **It would be better if...**
+    - 英文: It would be better if the government provided more support for small businesses.
+    - 中文: 如果政府能为小企业提供更多支持，那将会更好。
+
+
+### 个人陈述
+
+1. **I believe that...**
+   - 英文: I believe that education is the key to success.
+   - 中文: 我相信教育是成功的关键。
+2. **In my opinion...**
+   - 英文: In my opinion, environmental protection should be our top priority.
+   - 中文: 在我看来，环境保护应该是我们的首要任务。
+3. **From my perspective...**
+   - 英文: From my perspective, learning a second language is very beneficial.
+   - 中文: 从我的角度来看，学习第二语言是非常有益的。
+### 表达原因
+4. **The reason why... is because...**
+   - 英文: The reason why I chose this university is because of its excellent reputation.
+   - 中文: 我选择这所大学的原因是它有着卓越的声誉。
+5. **This is due to...**
+   - 英文: This is due to the increasing demand for skilled workers.
+   - 中文: 这是因为对技术工人的需求不断增加。
+6. **Owing to...**
+   - 英文: Owing to the rapid advancement in technology, our lives have become more convenient.
+   - 中文: 由于科技的快速进步，我们的生活变得更加方便。
+### 比较与对比
+7. **Compared to...**
+   - 英文: Compared to traditional methods, online learning is more flexible.
+   - 中文: 与传统方法相比，在线学习更加灵活。
+8. **In contrast to...**
+   - 英文: In contrast to urban areas, rural areas often lack basic amenities.
+   - 中文: 与城市地区相比，农村地区通常缺乏基本设施。
+9. **While...**
+   - 英文: While some people prefer to work from home, others find it difficult to concentrate.
+   - 中文: 虽然有些人喜欢在家工作，但其他人觉得难以集中注意力。
+### 举例说明
+10. **For example...**
+    - 英文: For example, many companies now offer flexible working hours.
+    - 中文: 例如，许多公司现在提供灵活的工作时间。
+11. **Such as...**
+    - 英文: There are many forms of entertainment, such as movies, music, and sports.
+    - 中文: 有许多娱乐形式，如电影、音乐和体育。
+12. **For instance...**
+    - 英文: For instance, regular exercise can improve your health significantly.
+    - 中文: 例如，定期锻炼可以显著改善你的健康。
+### 结论
+13. **In conclusion...**
+    - 英文: In conclusion, both methods have their advantages and disadvantages.
+    - 中文: 总之，两种方法都有其优点和缺点。
+14. **To sum up...**
+    - 英文: To sum up, it is essential to balance work and leisure.
+    - 中文: 总结来说，平衡工作和休闲是至关重要的。
+15. **Therefore...**
+    - 英文: Therefore, it is important to invest in renewable energy sources.
+    - 中文: 因此，投资可再生能源是重要的。
+
+### 表达观点
+
+16. **I strongly agree that...**
+    - 英文: I strongly agree that education should be accessible to everyone.
+    - 中文: 我强烈同意教育应该人人可及。
+
+17. **I disagree with...**
+    - 英文: I disagree with the notion that money can buy happiness.
+    - 中文: 我不同意金钱可以买到幸福的观点。
+
+18. **It seems to me that...**
+    - 英文: It seems to me that climate change is the most pressing issue of our time.
+    - 中文: 在我看来，气候变化是我们这个时代最紧迫的问题。
+
+### 提出建议
+
+19. **I suggest that...**
+    - 英文: I suggest that we should take immediate action to reduce pollution.
+    - 中文: 我建议我们应该立即采取行动减少污染。
+
+20. **It would be better if...**
+    - 英文: It would be better if the government provided more support for small businesses.
+    - 中文: 如果政府能为小企业提供更多支持，那将会更好。
+
+
+### 讨论家庭度假计划
+
+**英文:**
+- **Mom:** We need to decide where we're going for our family vacation this year. Any suggestions?
+- **Dad:** I was thinking about going to the mountains. It's been a while since we had a nature trip.
+- **Son:** The mountains sound great, but I was hoping we could go to the beach. I love swimming.
+- **Daughter:** How about we do both? We could spend a few days in the mountains and then go to the beach.
+- **Mom:** That sounds like a good idea. We can look for a location that has both options nearby.
+- **Dad:** I'll start researching some places. Let's finalize the plan this weekend.
+
+**中文:**
+- **妈妈:** 我们需要决定今年家庭度假去哪儿。有什么建议吗？
+- **爸爸:** 我在想去山里。我们已经很久没有进行自然旅行了。
+- **儿子:** 山里听起来不错，但我希望我们能去海边。我喜欢游泳。
+- **女儿:** 我们能不能两个地方都去？我们可以先在山里待几天，然后去海边。
+- **妈妈:** 这听起来是个好主意。我们可以找一个附近有这两种选择的地方。
+- **爸爸:** 我会开始研究一些地方。我们这个周末敲定计划。
+
+### 讨论家庭晚餐
+
+**英文:**
+- **Dad:** What should we have for dinner tonight?
+- **Mom:** How about we make some pasta? It's quick and everyone likes it.
+- **Son:** I had pasta for lunch at school today. Can we have something different?
+- **Daughter:** How about tacos? We haven't had those in a while.
+- **Mom:** Tacos sound good. We have all the ingredients we need.
+- **Dad:** Great! I'll help with the cooking. Let's get started.
+
+**中文:**
+- **爸爸:** 今天晚饭吃什么？
+- **妈妈:** 我们做点意大利面怎么样？很快，而且大家都喜欢。
+- **儿子:** 我今天在学校午餐吃的就是意大利面。我们能吃点别的吗？
+- **女儿:** 吃玉米卷怎么样？我们有一阵子没吃了。
+- **妈妈:** 玉米卷听起来不错。我们有所有需要的材料。
+- **爸爸:** 太好了！我来帮忙做饭。我们开始吧。
+
+### 讨论家庭宠物
+
+**英文:**
+- **Son:** Can we get a pet dog? I really want one.
+- **Dad:** Having a pet is a big responsibility. Are you sure you can take care of it?
+- **Daughter:** I can help take care of the dog too. I'll walk it every day.
+- **Mom:** We need to consider the costs as well. Food, vet visits, and other expenses can add up.
+- **Son:** I'll use my allowance to help pay for the food.
+- **Dad:** Let's think about it for a week and see if everyone is still interested. If we all agree, we can start looking for a dog.
+
+**中文:**
+- **儿子:** 我们能养只狗吗？我真的很想要一只。
+- **爸爸:** 养宠物是很大的责任。你确定你能照顾它吗？
+- **女儿:** 我也可以帮忙照顾狗。我每天都会遛它。
+- **妈妈:** 我们也需要考虑费用。食物、兽医看诊和其他开销会加起来不少。
+- **儿子:** 我会用我的零花钱来帮忙买食物。
+- **爸爸:** 我们考虑一周，看看大家是否仍然感兴趣。如果我们都同意，我们就开始找狗。
+
+### 讨论家庭作业
+
+**英文:**
+- **Mom:** Have you finished your homework yet?
+- **Son:** Not yet. I still have some math problems to solve.
+- **Dad:** Do you need any help with your math homework?
+- **Son:** Yes, I'm stuck on this one problem. Can you help me, Dad?
+- **Dad:** Sure, let's take a look at it together.
+- **Daughter:** I finished my homework. Can I watch TV now?
+- **Mom:** Yes, but only for an hour. Then it's time for bed.
+
+**中文:**
+- **妈妈:** 你做完作业了吗？
+- **儿子:** 还没有。我还有一些数学题要解。
+- **爸爸:** 你需要帮忙做数学作业吗？
+- **儿子:** 是的，我卡在这道题上了。爸爸，你能帮我吗？
+- **爸爸:** 当然，我们一起来看看。
+- **女儿:** 我做完作业了。我现在可以看电视吗？
+- **妈妈:** 可以，但只能看一个小时。然后就该睡觉了。
+
+
+1. **Law** /lɔː/ 法律 名词  
+2. **Court** /kɔːrt/ 法庭 名词  
+3. **Judge** /dʒʌdʒ/ 法官 名词  
+4. **Lawyer** /ˈlɔːjər/ 律师 名词  
+5. **Plaintiff** /ˈpleɪntɪf/ 原告 名词  
+6. **Defendant** /dɪˈfɛndənt/ 被告 名词  
+7. **Evidence** /ˈɛvɪdəns/ 证据 名词  
+8. **Judgment** /ˈdʒʌdʒmənt/ 判决 名词  
+9. **Verdict** /ˈvɜːrdɪkt/ 裁决 名词  
+10. **Litigation** /ˌlɪtɪˈɡeɪʃən/ 诉讼 名词  
+11. **Appeal** /əˈpiːl/ 上诉 名词/动词  
+12. **Contract** /ˈkɑːntrækt/ 合同 名词  
+13. **Clause** /klɔːz/ 条款 名词  
+14. **Liability** /ˌlaɪəˈbɪləti/ 责任 名词  
+15. **Breach of Contract** /briːtʃ ʌv ˈkɑːntrækt/ 违约 名词  
+16. **Compensation** /ˌkɑːmpənˈseɪʃən/ 赔偿 名词  
+17. **Damages** /ˈdæmɪdʒɪz/ 损害赔偿 名词  
+18. **Judiciary** /dʒuˈdɪʃəri/ 司法 名词  
+19. **Justice** /ˈdʒʌstɪs/ 正义 名词  
+20. **Decree** /dɪˈkriː/ 法令 名词  
+21. **Arbitration** /ˌɑːrbɪˈtreɪʃən/ 仲裁 名词  
+22. **Arbitrator** /ˈɑːrbɪtreɪtər/ 仲裁员 名词  
+23. **Arbitration Agreement** /ˌɑːrbɪˈtreɪʃən əˈɡriːmənt/ 仲裁协议 名词  
+24. **Arbitration Clause** /ˌɑːrbɪˈtreɪʃən klɔːz/ 仲裁条款 名词  
+25. **Arbitral Tribunal** /ˈɑːrbɪtrəl traɪˈbjuːnəl/ 仲裁庭 名词  
+26. **Arbitration Rules** /ˌɑːrbɪˈtreɪʃən ruːlz/ 仲裁规则 名词  
+27. **Arbitral Award** /ˈɑːrbɪtrəl əˈwɔːrd/ 仲裁裁决 名词  
+28. **Request for Arbitration** /rɪˈkwɛst fɔːr ˌɑːrbɪˈtreɪʃən/ 仲裁申请 名词  
+29. **Arbitration Institution** /ˌɑːrbɪˈtreɪʃən ˌɪnstɪˈtuːʃən/ 仲裁机构 名词  
+30. **International Arbitration** /ˌɪntərˈnæʃənəl ˌɑːrbɪˈtreɪʃən/ 国际仲裁 名词  
+31. **Ad hoc Arbitration** /æd hɑːk ˌɑːrbɪˈtreɪʃən/ 临时仲裁 名词  
+32. **Institutional Arbitration** /ˌɪnstɪˈtuːʃənəl ˌɑːrbɪˈtreɪʃən/ 机构仲裁 名词  
+33. **Mediation** /ˌmiːdiˈeɪʃən/ 调解 名词  
+34. **Arbitration Costs** /ˌɑːrbɪˈtreɪʃən kɔːsts/ 仲裁费用 名词  
+35. **Arbitration Procedure** /ˌɑːrbɪˈtreɪʃən prəˈsiːdʒər/ 仲裁程序 名词  
+36. **Validity of Arbitration Agreement** /vəˈlɪdəti ʌv ˌɑːrbɪˈtreɪʃən əˈɡriːmənt/ 仲裁协议的效力 名词  
+37. **Enforcement of Arbitral Award** /ɪnˈfɔːrsmənt ʌv ˈɑːrbɪtrəl əˈwɔːrd/ 执行仲裁裁决 名词  
+38. **Arbitration Jurisdiction** /ˌɑːrbɪˈtreɪʃən ˌdʒʊrɪsˈdɪkʃən/ 仲裁管辖权 名词  
+39. **Seat of Arbitration** /siːt ʌv ˌɑːrbɪˈtreɪʃən/ 仲裁地 名词  
+40. **Set Aside Arbitral Award** /sɛt əˈsaɪd ˈɑːrbɪtrəl əˈwɔːrd/ 撤销仲裁裁决 
