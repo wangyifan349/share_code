@@ -264,17 +264,15 @@ class FileEncryptorApp:
                     plaintext = f.read()  # 读取明文
                 nonce = generate_random_bytes(12)  # 随机生成 nonce
                 ciphertext = chacha20_encrypt(key, nonce, plaintext)  # 加密明文
+                mac = poly1305(key, ciphertext)  # 计算 MAC
 
                 # 直接覆盖原文件
                 with open(file_path, 'wb') as f:
-                    f.write(nonce + ciphertext)  # 将 nonce 和密文一起保存
+                    f.write(nonce + mac.to_bytes(16, 'little') + ciphertext)  # 将 nonce、MAC 和密文一起保存
 
                 # 恢复文件的时间戳
                 os.utime(file_path, (original_atime, original_mtime))
 
-                mac = poly1305(key, ciphertext)  # 计算 MAC
-                with open(file_path + '.mac', 'wb') as f:
-                    f.write(mac.to_bytes(16, 'little'))  # 保存 MAC
         messagebox.showinfo("完成", "所有文件已加密")
 
     def decrypt_files(self):
@@ -292,21 +290,20 @@ class FileEncryptorApp:
         # 使用 os.walk 遍历文件夹及其子文件夹中的所有加密文件
         for root, dirs, files in os.walk(self.folder_path_decrypt):
             for filename in files:
-                if filename.endswith('.mac'):
-                    enc_file_path = os.path.join(root, filename[:-4])  # 对应的加密文件
-                    mac_file_path = os.path.join(root, filename)  # MAC 文件
-                    if os.path.isfile(enc_file_path) and os.path.isfile(mac_file_path):
-                        with open(enc_file_path, 'rb') as f:
-                            nonce = f.read(12)  # 读取 nonce
-                            ciphertext = f.read()  # 读取密文
-                        with open(mac_file_path, 'rb') as f:
-                            mac = int.from_bytes(f.read(16), 'little')  # 读取 MAC
-                        if poly1305_verify(key, ciphertext, mac):  # 验证 MAC
-                            decrypted_text = chacha20_encrypt(key, nonce, ciphertext)  # 解密
-                            with open(enc_file_path, 'wb') as f:
-                                f.write(decrypted_text)  # 保存解密后的文件
-                        else:
-                            messagebox.showwarning("警告", f"MAC 验证失败: {filename}")
+                enc_file_path = os.path.join(root, filename)
+                if os.path.isfile(enc_file_path):
+                    with open(enc_file_path, 'rb') as f:
+                        nonce = f.read(12)  # 读取 nonce
+                        mac = int.from_bytes(f.read(16), 'little')  # 读取 MAC
+                        ciphertext = f.read()  # 读取密文
+
+                    if poly1305_verify(key, ciphertext, mac):  # 验证 MAC
+                        decrypted_text = chacha20_encrypt(key, nonce, ciphertext)  # 解密
+                        with open(enc_file_path, 'wb') as f:
+                            f.write(decrypted_text)  # 保存解密后的文件
+                    else:
+                        messagebox.showwarning("警告", f"MAC 验证失败: {filename}")
+
         messagebox.showinfo("完成", "所有文件已解密")
 
     def encrypt_string(self):
